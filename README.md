@@ -103,7 +103,7 @@ ORDER BY
    This suggests early cohorts were better retained, possibly due to stronger product-market fit or effective initial campaigns. However, retention performance deteriorated rapidly, 
    indicating potential issues with customer satisfaction, experience, or follow-up engagement.
 
-![image](https://github.com/user-attachments/assets/b456d19c-7a1d-433a-bdaf-76668fec3628)
+![image](https://github.com/user-attachments/assets/25c973ce-805c-4212-a734-669faeed395c)
 
 
 
@@ -116,7 +116,7 @@ ORDER BY
    Retention was lower overall compared to retail, starting at 6.99% in April, gradually increasing to a modest peak of 8.68% in July, and then declining slightly to 2.98% in September. 
    Although less volatile than retail, the restaurant line also shows signs of waning engagement over time, but its initial retention was already modest.
 
-   ![image](https://github.com/user-attachments/assets/b5d482f3-1ddb-4c88-9ea9-9ac04e7fc386)
+![image](https://github.com/user-attachments/assets/76ff6ff3-a90a-4797-89bc-cb03be071255)
 
 
 ### Recommendations
