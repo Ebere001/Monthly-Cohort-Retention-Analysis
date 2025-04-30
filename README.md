@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Data Source](#data-sources)
+- [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -17,7 +17,7 @@ This data analysis project focuses on evaluating a company's customer retention 
 - Retail: Cohort-based monthly customer retention
 - Restaurant: Cohort-based monthly customer retention
 
-### Data Source
+### Data Sources
 The data comprises two CSV files—first_purchases.csv and purchases.csv—which were merged to generate the extracted_purchases.csv file used for this project.
 
 ### Tools
