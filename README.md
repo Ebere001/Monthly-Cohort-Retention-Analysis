@@ -2,14 +2,13 @@
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Data Source](#data-sources)
 - [Tools](#tools)
-- [Data Preparation](data-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [Results](results)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
 ### Project Overview
@@ -26,7 +25,7 @@ The data comprises two CSV files—first_purchases.csv and purchases.csv—which
 - SQL- Data Analysis
 - Power BI- Visualization
 
-### Data Prepartion
+### Data Preparation
 In the initial data preparation phase, we performed the following task;
 1. Data loading and inspection
 2. Handling missing values
