@@ -136,7 +136,7 @@ I recommend that,
   delivery to lift early retention rates.
 
 ### Limitations
-I consistently matched first_purchases.user_id as first_purchase_user_id and purchases.user_id as purchase_user_id to ensure accurate associations in the merged results, as demonstrated in the script under the Data Analysis section.
+User identifiers were standardized across datasets to ensure accurate cohort tracking and reliable retention calculations.
 
 
     
