@@ -98,7 +98,9 @@ ORDER BY
     months_after_first_purchase;
 
 ### Key Insights
-  - Retail Product Line: 
+  - Retail shows strong initial retention but rapid decline, indicating weak long-term engagement
+  - Restaurant exhibits lower but more stable retention patterns
+  - Retention drops significantly after early months across both product lines
 
 ### Results
  - Retail Product Line: 
