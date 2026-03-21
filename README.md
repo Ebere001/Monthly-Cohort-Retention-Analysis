@@ -97,6 +97,9 @@ ORDER BY
     cohort_month, 
     months_after_first_purchase;
 
+### Key Insights
+  - Retail Product Line: 
+
 ### Results
  - Retail Product Line: 
 
