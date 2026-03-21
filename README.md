@@ -7,6 +7,7 @@
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- Key Insights
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
