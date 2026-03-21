@@ -1,4 +1,4 @@
-# Monthly-Cohort-Retention-Analysis
+# Customer Retention Analysis Using Cohort Modeling (SQL and Power BI) 
 
 ## Table of Content
 - [Project Overview](#project-overview)
