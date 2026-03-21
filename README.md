@@ -131,7 +131,7 @@ Based on the analysis,
 
 - Restaurant products had lower but more stable retention, suggesting a consistently low engagement rather than a sudden drop.
 
-We recommend that,
+I recommend that,
 - Both product lines would benefit from targeted retention strategies, with retail needing long-term engagement improvements and restaurant needing enhanced onboarding and initial value 
   delivery to lift early retention rates.
 
